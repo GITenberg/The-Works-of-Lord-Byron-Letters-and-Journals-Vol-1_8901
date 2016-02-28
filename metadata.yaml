@@ -1,0 +1,41 @@
+_repo: The-Works-of-Lord-Byron-Letters-and-Journals-Vol-1_8901
+contributor:
+  creator:
+    editor:
+      agent_name: Prothero, Rowland E. (Rowland Edmund), Baron Ernle
+      aliases:
+      - Ernle, Rowland Edmund Prothero, Baron
+      - Ernle, Lord (Rowland Edmund Prothero)
+      birthdate: 1851
+      deathdate: 1937
+      gutenberg_agent_id: '3206'
+      url: http://www.gutenberg.org/2009/agents/3206
+      wikipedia: http://en.wikipedia.org/wiki/Rowland_Prothero%2C_1st_Baron_Ernle
+creator:
+  author:
+    agent_name: Byron, George Gordon Byron, Baron
+    aliases:
+    - Byron, George Gordon Noel Byron, Baron
+    - Byron, George Gordon Noël Byron, Baron
+    birthdate: 1788
+    deathdate: 1824
+    gutenberg_agent_id: '1708'
+    url: http://www.gutenberg.org/2009/agents/1708
+    wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8901'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Byron, George Gordon Byron, Baron, 1788-1824 -- Diaries'
+- !lcsh 'Byron, George Gordon Byron, Baron, 1788-1824 -- Correspondence'
+- !lcsh 'Poets, English -- 19th century -- Diaries'
+- !lcsh 'Poets, English -- 19th century -- Correspondence'
+- !lcc 'PR'
+title: 'The Works of Lord Byron: Letters and Journals. Vol. 1'
+url: http://www.gutenberg.org/ebooks/8901
